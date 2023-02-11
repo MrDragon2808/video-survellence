@@ -1,0 +1,48 @@
+#naruto
+{
+    background-size: cover;
+}
+#heading
+{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+    background-color: black;  
+    color: gold; 
+}
+
+#sasuke
+{
+    background-color: purple;
+    color: orange;
+    font-size: 18px;
+}
+#number_of_objects
+{
+    font-size: 18px;
+    color: purple;
+    background-color: orange;
+}
+#status
+{
+    font-size: 18px;
+    background-color: black;  
+    color: gold;
+}
+#footer
+{
+    position: fixed;
+    bottom: 3;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    background-color: navy;  
+    color: gold;
+}
+canvas
+{
+   border: 2px solid navy;
+   border-radius: 10px;
+   margin-top: 100px;
+   box-shadow: 5px 5px 5px gold;
+}
